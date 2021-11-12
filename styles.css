@@ -1,0 +1,84 @@
+/*=============tag selector=============*/
+a{
+  transition: ease 0.1s;
+  text-decoration: none;
+}
+
+body{
+  background-color: #F2E9E4;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 20px;
+  padding: 2%;
+}
+
+hr{
+  background-color:#F2E9E4;
+}
+
+/*=============id selector=============*/
+
+.aMain:link{
+  color: #C9ADA7;
+}
+
+.aMain:visited{
+  color: #C9ADA7;
+}
+
+.aMain:hover{
+  color: #9A8C98;
+}
+
+.center{
+  text-align:center;
+}
+
+.darkBlue{
+  color: #4A4E69;
+}
+
+.darkBlue:hover{
+  color: #22223B;
+}
+
+.largen{
+  transition: ease-in 0.125s;
+}
+
+.largen:hover{
+  letter-spacing: 10px
+}
+
+.toPinkSpread{
+  transition: ease-in 0.125s;
+}
+
+.toPinkSpread:hover{
+  color: #4A4E69;
+  letter-spacing: 20px;
+}
+
+.hrMain{
+  border-color: #9A8C98;
+  border-style: none;
+  border-top-style: solid;
+  width: 40%;
+  border-width: 2px;
+
+}
+
+.X2{
+  font-size: 200%
+}
+
+.X3{
+  font-size: 300%
+}
+
+.X4{
+  font-size: 400%
+}
+
+.X5{
+  font-size: 500%
+}
